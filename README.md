@@ -1,4 +1,4 @@
-# Site Pessoal
+# 🔛 Site Pessoal
 
 Site pessoal responsivo para visualizar minhas habilidades, portfólio e objetivos profissionais.
 
@@ -44,4 +44,8 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## 🔧 Resolvendo possíveis bugs.
 
-Ao longo do desenvolvimento do site pessoal, tive diversos bugs em relação ao recebimento de emails. Notei que o gmail estava me dando diversos problemas de acesso e recebimento dos emails, bloqueando a plataforma de host de enviar as mensagens. Isso parou de acontecer depois da troca de porta e email eletrônico.
+1.  ### 📧 <strong><em>Envio de Email</em></strong>
+   Ao longo do desenvolvimento do site pessoal, tive diversos bugs em relação ao recebimento de emails. Notei que o gmail estava me dando diversos problemas de acesso e recebimento dos emails, bloqueando a plataforma de host de enviar as mensagens. Isso parou de acontecer depois da troca de porta e email eletrônico.
+   
+2. ### ⚙️ <strong><em>Config Vars</em></strong>
+ Um outro problema que pode ocorrer em relação ao envio do formulário, é dar a seguinte mensagem "Application error" ou "Error Pages". Isso pode ser erro das configurações das variaveis do heroku. Pois como você não fez o deploy da sua .env, onde fica o seu email e senha, o heroku não vai ter como acessar. Para resolver isso vai ter que criar duas configs vars em "Settings", Uma do email e outra da senha.
