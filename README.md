@@ -1,8 +1,17 @@
-# 🔛 Site Pessoal
+<h1 align="center"> 
+  <strong> Site Pessoal 🔛</strong>
+</h1>
+<br><br>
 
-Site pessoal responsivo para visualizar minhas habilidades, portfólio e objetivos profissionais.
+![screen-capture-_3_](https://user-images.githubusercontent.com/82779533/159519449-2c83aacd-de31-4068-aca7-46c2da087f20.gif)
 
-### 📋 Pré-requisitos
+<br>
+
+## 🔎 Sobre o projeto
+
+Projeto web de um site pessoal, para visualização das minhas habilidades técnicas e não técnicas e também visualização de portfólio de projetos realizados!
+
+## 📋 Pré-requisitos
 
 Coisas iniciais que você precisa para rodar o projeto.
 
@@ -10,7 +19,7 @@ Coisas iniciais que você precisa para rodar o projeto.
 Uma IDE, Bootstrap, Python e o Framework Flask
 ```
 
-### 🔧 Instalação
+## 🔧 Instalação
 
 Exemplos passo-a-passo que informam o que você deve executar para rodar o projeto.
 
@@ -33,9 +42,7 @@ pip install python-dotenv
 ```
 
 
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
+## 🛠️ Tecnologias usadas
 
 * [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - O framework web usado
 * [Flask](https://flask.palletsprojects.com/en/2.0.x/) - O framework back-end
@@ -55,5 +62,27 @@ Mencione as ferramentas que você usou para criar seu projeto
  
  
 ![Config Vars](https://user-images.githubusercontent.com/82779533/149251448-b6725d6c-97f4-43da-8d36-75ca34779818.png)
+
+<br><br>
+
+### 🧑 Autor
+
+<a href="http://portfoliojrsz.herokuapp.com/">
+ <img style="border-radius: 8px" src="https://user-images.githubusercontent.com/82779533/158067762-8d25be74-d955-41da-8a96-f400e75f902b.jpg" width="100px;" alt="José Robson"/>
+<br />
+<sub><strong>José Robson</strong></sub></a>
+
+
+<br />
+<br />
+
+:point_down: Entre em contato.
+
+<br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-robson-52b0bb208)](https://www.linkedin.com/in/josé-robson-52b0bb208)
+
+
+
 
 
